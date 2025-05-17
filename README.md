@@ -13,6 +13,4 @@ Welcome to a simple yet powerful Python project that showcases data analysis and
 | `seaborn`   | Statistical data visualization   |
 | `matplotlib`| Basic plotting and graphing      |
 
----
 
-## 📁 Project Structure
